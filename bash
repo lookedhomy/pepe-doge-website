@@ -1,2 +1,3 @@
-git clone https://github.com/your-username/pepe-doge-website.git
-cd pepe-doge-website
+git add .
+git commit -m "Initial commit"
+git push origin main
